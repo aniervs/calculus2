@@ -6,7 +6,7 @@ This repo contains code for some algorithms seen in the Calculus 2 class:
 - University: Harbour Space University
 
 ## Current files:
-- numerical_diff.ipynb: Contains code for Newton's method, Bisection Method and a recursive algorithm to find all roots.
+- [Numerical Differentiation](https://github.com/aniervs/calculus2/blob/main/numerical_diff.ipynb): Contains code for Newton's method, Bisection Method and a recursive algorithm to find all roots.
 
 ## How to use:
 - Clone the repo
